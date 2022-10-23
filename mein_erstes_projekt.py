@@ -8,3 +8,5 @@ def funktion_wichtig(b,c):
 
 def funktio_mega_wichtig(c):
     return(a*2)
+
+xxxx=10
