@@ -8,9 +8,3 @@ def funktion_wichtig(b,c):
 
 def funktio_mega_wichtig(c):
     return(a*2)
-
-#Blabla
-
-x=1
-y=2
-z=x*y
